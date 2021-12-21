@@ -145,8 +145,7 @@
     </div>
   </div>
 </footer>
-```
-
+````
 </p>
 
 </details>
