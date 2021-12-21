@@ -1,6 +1,6 @@
 # Smooth Footer v1
 
-<a href="https://ibb.co/6wt8YZB"><img src="https://i.ibb.co/6wt8YZB/footer232.png" alt="footer232" border="0"></a>
+<a href="https://ibb.co/6wt8YZB"><img src="https://i.ibb.co/bmvF13J/footer232.png" alt="footer232" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload image</a><br />
 
 ## HTML
 
